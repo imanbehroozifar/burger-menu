@@ -1,8 +1,10 @@
+import React from "react";
+import Menu from "./components/BurgerMenu";
 function App() {
   return (
-    <div>
-      iman
-    </div>
+    <>
+      <Menu/> 
+    </>
   );
 }
 
